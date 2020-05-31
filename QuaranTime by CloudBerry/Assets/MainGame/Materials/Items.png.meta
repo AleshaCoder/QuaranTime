@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 58a72ec24cce0fd44a4964b9933ac371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6425531424874156705
+    second: Limon
+  - first:
+      213: -519733243297392110
+    second: Apple
+  - first:
+      213: 6178453329642224724
+    second: Onion
+  - first:
+      213: 3424615978517398712
+    second: Potato
+  - first:
+      213: 1005890657127109718
+    second: Meet
+  - first:
+      213: 1983807702964204373
+    second: Chicken
+  - first:
+      213: -7366763643543004540
+    second: Cheese
+  - first:
+      213: -146546575878494140
+    second: Milk
+  - first:
+      213: -5214078768492194818
+    second: Yoghurt
+  - first:
+      213: 4065105780813713189
+    second: IceCream
+  - first:
+      213: 4845059418593204613
+    second: Cotlete
+  - first:
+      213: 5153924305014280307
+    second: Pasta
+  - first:
+      213: 1384034472372589755
+    second: Soup
+  - first:
+      213: -3161559375208209747
+    second: BP
+  - first:
+      213: -6782422642620530117
+    second: Rise
+  - first:
+      213: -9076478421749142079
+    second: Grecha
+  - first:
+      213: -2674318553296073392
+    second: Tualetka
+  - first:
+      213: 8331945892673480085
+    second: AntiSeptic
+  - first:
+      213: 7577328287588368852
+    second: Mask
+  - first:
+      213: 9014645481369186314
+    second: Vita
+  - first:
+      213: 4933099488410732890
+    second: Antibio
+  - first:
+      213: 8500124053427680401
+    second: Money
+  - first:
+      213: 3070148713985423590
+    second: Health
+  - first:
+      213: 5502746730211692110
+    second: Bubles
+  - first:
+      213: 7508041833109699463
+    second: Smile
+  - first:
+      213: 1587536506519528188
+    second: Havka
+  - first:
+      213: -7404273912201274490
+    second: Energy
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Limon
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2776
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4820686, y: 0.47608984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809046da16c14e448c15bcc294d4a5e
+      internalID: 6425531424874156705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2794
+        width: 250
+        height: 263
+      alignment: 9
+      pivot: {x: 0.4820686, y: 0.47608984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0e0325e03e8b478b9e32965a0f3b2
+      internalID: -519733243297392110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onion
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2825
+        width: 205
+        height: 364
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c249141d15a514aaebf2bdfdb89f43
+      internalID: 6178453329642224724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2786
+        width: 205
+        height: 208
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f51e6747fd7e40af6d225131e1a15
+      internalID: 3424615978517398712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meet
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2536
+        width: 205
+        height: 320
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599d22146aaf2e44ba26703d2f6b7eef
+      internalID: 1005890657127109718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2605
+        width: 296
+        height: 381
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afebedb3b70127940bafc3b0f8661308
+      internalID: 1983807702964204373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2491
+        width: 221
+        height: 219
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b971e2b2bacc41b168079d35ef04f
+      internalID: -7366763643543004540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milk
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2396
+        width: 221
+        height: 310
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b582385e629345a8e6e8308a1346f
+      internalID: -146546575878494140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoghurt
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2534
+        width: 127
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f1f9eb86190e4d9e0d01cf128d6ea
+      internalID: -5214078768492194818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2387
+        width: 179
+        height: 281
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0acacd85c86347ad7eb8e6e217430
+      internalID: 4065105780813713189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cotlete
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2361
+        width: 179
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9e342eabe6ed45aaffbccdd8599c8
+      internalID: 4845059418593204613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasta
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2066
+        width: 278
+        height: 241
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d246f797e6efc54c86fc3f3a849e223
+      internalID: 5153924305014280307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soup
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1837
+        width: 248
+        height: 218
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f634749b17d914f848f1d33b3ed4bd
+      internalID: 1384034472372589755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1803
+        width: 248
+        height: 226
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba4a8d10c093441975e6475d61b849
+      internalID: -3161559375208209747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rise
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1853
+        width: 209
+        height: 226
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c7d675daa47c4aac532350a5d44d0
+      internalID: -6782422642620530117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grecha
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1862
+        width: 209
+        height: 226
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f503dab69e8e4389e722b3fc097d4
+      internalID: -9076478421749142079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tualetka
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1477
+        width: 209
+        height: 305
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42c3a330d50cd419354263e66eddf1
+      internalID: -2674318553296073392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntiSeptic
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1419
+        width: 209
+        height: 305
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fa6d15e36c37459683b1f4821ae65
+      internalID: 8331945892673480085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1459
+        width: 209
+        height: 171
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413d5358967dc047a9a1cd930a41c67
+      internalID: 7577328287588368852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vita
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1429
+        width: 209
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b92d3fa655834aa73233d6966e8a5
+      internalID: 9014645481369186314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antibio
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1011
+        width: 330
+        height: 261
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e1d6dc1bace848adbcb5f496cf7a5
+      internalID: 4933099488410732890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Money
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 800
+        width: 118
+        height: 168
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57183415d1c9324381fc263c52e799f
+      internalID: 8500124053427680401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 823
+        width: 118
+        height: 126
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff01d7af2383fe4cb278c06e5188ea5
+      internalID: 3070148713985423590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubles
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 496
+        width: 143
+        height: 192
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41cf31061467c43b0ae528112a002a
+      internalID: 5502746730211692110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smile
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 595
+        width: 128
+        height: 131
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84e1538cea36c4999f0fa0a28b948a
+      internalID: 7508041833109699463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Havka
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 321
+        width: 128
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f58b759b50214888670c456c1a6a6
+      internalID: 1587536506519528188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 75
+        width: 128
+        height: 198
+      alignment: 9
+      pivot: {x: 0.48206878, y: 0.5483801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf07d66ad16ed24196615886ff6bdef
+      internalID: -7404273912201274490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
